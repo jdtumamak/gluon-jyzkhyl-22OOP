@@ -1,8 +1,8 @@
 /*
- * Difference between the Book class and Book objects:
- * A class is a blueprint or template that defines what a book is (its properties and behaviors).
- * Book objects, on the other hand, are actual instances created from that class,
- * each representing a specific book with unique details such as title and author.
+* Distinction between the Book class and Book objects.
+* A class serves as a template that outlines what a book is.
+* Conversely, Book objects are real instances generated from that class,
+* each one representing an individual book with its specific title and author.
  */
 public class TestBook {
     public static void main(String[] args) {
